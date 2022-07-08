@@ -14,8 +14,8 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 ## 📛Github Usernames📛
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-9-informational?labelColor=003995)
-![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-7-blueviolet?labelColor=25004e)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-10-informational?labelColor=003995)
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-8-blueviolet?labelColor=25004e)
 
 <img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 </div>
