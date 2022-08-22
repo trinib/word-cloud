@@ -1,5 +1,6 @@
 require 'octokit'
 require 'faraday-retry'
+require 'faraday'
 
 class OctokitClient
   PREVIEW_HEADERS = [
