@@ -10,7 +10,7 @@ require_relative "./cloud_types"
 
 class Runner
   ## constants
-  MARKDOWN_PATH = 'README.md'
+  MARKDOWN_PATH = "README.md"
   REGEX_PATTERN = /\w[\w' !?#@+-.]+/
   PERSONAL_REGEX = /`\w[\w]+`/
   ADDWORD = 'add'
