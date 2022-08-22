@@ -9,8 +9,9 @@ require_relative "./octokit_client"
 require_relative "./cloud_types"
 
 class Runner
-  ## constants
-  MARKDOWN_PATH = "README.md"
+  ###constants
+  
+  MARKDOWN_PATH = 'README.md'
   REGEX_PATTERN = /\w[\w' !?#@+-.]+/
   PERSONAL_REGEX = /`\w[\w]+`/
   ADDWORD = 'add'
