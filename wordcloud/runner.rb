@@ -1,6 +1,4 @@
 ##imports
-require 'faraday'
-require 'faraday-retry`
 
 require_relative "./readme_generator"
 require_relative "./comment_generator"
