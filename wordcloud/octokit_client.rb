@@ -1,10 +1,7 @@
 require 'octokit'
-require 'faraday-retry'
 
 class OctokitClient
   PREVIEW_HEADERS = [
-    ::Octokit::Preview::PREVIEW_TYPES[:reactions],
-    ::Octokit::Preview::PREVIEW_TYPES[:integrations]
   ].freeze
 
   def initialize(github_token:, repository:, issue_number:)
