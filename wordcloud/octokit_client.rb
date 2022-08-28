@@ -2,8 +2,8 @@ require 'octokit'
 
 class OctokitClient
   PREVIEW_HEADERS = [
-    ::Octokit::Preview::PREVIEW_TYPES[:reactions],
-    ::Octokit::Preview::PREVIEW_TYPES[:integrations]
+    ::OctokitClient::Preview::PREVIEW_TYPES[:reactions],
+    ::OctokitClient::Preview::PREVIEW_TYPES[:integrations]
   ].freeze
 
   def initialize(github_token:, repository:, issue_number:)
