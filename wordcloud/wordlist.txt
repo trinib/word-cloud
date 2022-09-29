@@ -17,3 +17,4 @@ get schwifty
 insert-word
 Hacking
 Monster0506
+DESTINY
