@@ -28,3 +28,4 @@ supsa-ak
 albanian
 ARY
 VinayakVispute
+javascript
