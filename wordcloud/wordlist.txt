@@ -13,7 +13,6 @@ Google
 AstroSquared
 get schwifty
 0xStryK3R
-insert-word
 Hacking
 Monster0506
 DESTINY
@@ -43,7 +42,6 @@ SpaceWasabi
 amogus
 Milindu
 hi-and-cod
-insert-word
 murdeala
 manoj jangra
 rafael-martins1
@@ -52,7 +50,6 @@ asm-raihan
 birajkarki
 benzlokzik
 RandomArray
-insert-word
 hexadecimalbyte
 SagXD
 melissa
