@@ -16,7 +16,7 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.0.0
+        ruby-version: 2.7.1
 
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
@@ -25,7 +25,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        gem install octokit -v 4.25.0
+        gem install octokit -v 4.18.0
         pip install wordcloud
 
     - name: Generate New Word Cloud
