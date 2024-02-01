@@ -16,7 +16,7 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.7.1
+        ruby-version: 3.0.0
 
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
@@ -25,7 +25,6 @@ jobs:
 
     - name: Install dependencies
       run: |
-        gem install faraday-net_http -v 3.0.2
         gem install octokit -v 4.25.0
         pip install wordcloud
 
