@@ -1,4 +1,4 @@
-Just replace "<INSERT-WORD>" with your word - don't remove the `wordcloud|add|`<br> 
+Just replace <INSERT-WORD> with your word - don't remove the `wordcloud|add|`
 EXAMPLE : `wordcloud|add|WORD`
 Next click 'Submit new issue'
 
